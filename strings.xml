@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lockmyapps</string>
+    <string name="accessibility_description">Detects when selected apps are opened so lockmyapps can enforce your chosen limits.</string>
+</resources>
